@@ -1,9 +1,9 @@
 let number = parseFloat(prompt("Entrez un nombre"));
 
 if (number > 0) {
-    alert("positif.");
+    alert("positif");
 }else if (number < 0) {
-    alert("negatif.");
+    alert("negatif");
 }else {
-    alert("zéro.");
+    alert("zéro");
 }
